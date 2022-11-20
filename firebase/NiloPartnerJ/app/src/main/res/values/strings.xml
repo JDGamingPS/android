@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Nilo Partner</string>
+    <string name="product_create">Crear</string>
+    <string name="product_msg_loading">Preparando todo…</string>
+    <string name="hint_name">Nombre del Producto</string>
+    <string name="hint_description">Descripcion</string>
+    <string name="hint_cantidad">Cantidad</string>
+    <string name="hint_precio">Precio</string>
+    <string name="hint_estado">Estado</string>
+    <string name="hint_chat">Escribe algo…</string>
+
+    <string name="order_total_price">Total: $%1$.2f USD</string>
+
+    <string name="order_track_shipment">Seguir envio</string>
+    <string name="order_status">Estado: %1$s</string>
+    <string name="order_id">ID: %1$s</string>
+    <string name="order_chat_help">¿Necesitas ayuda?</string>
+    <string name="order_title">Historial de compras</string>
+
+    <string name="order_status_oredered">Pedido</string>
+    <string name="order_status_preparing">Preparando</string>
+    <string name="order_status_sent">Enviado</string>
+    <string name="order_status_delivered">Entregado</string>
+    <string name="order_status_unknown">Desconocido</string>
+
+    <string name="chat_title">Soporte</string>
+</resources>

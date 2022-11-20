@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="hint_nombre">Nombre</string>
+    <string name="help_required">Obligatorio</string>
+    <string name="hint_apellido">Apellido</string>
+    <string name="hint_estatura">Estatura</string>
+    <string name="help_min_estatura">minimo 50 cm</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="hint_pais">Pais</string>
+    <string name="hint_lugar_de_nacimiento">Lugar de nacimiento</string>
+    <string name="hint_notas">Notas</string>
+    <string name="dialog_titulo">Datos recolectados</string>
+    <string name="help_min_estatura_valid">debe ser mayor o igual a 50cm</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="hint_description">Añade una nota</string>
+    <string name="dialog_title">¿Eliminar Nota?</string>
+    <string name="dialog_ok">Eliminar</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="validation_field_required">campo requerido.</string>
+    <string name="notes_pending">Pendientes</string>
+
+    <string name="notes_finished">Terminadas</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="description_max_lengt">60</integer>
+    <integer name="description_size_finished">12</integer>
+    <integer name="description_size_default">16</integer>
+</resources>
